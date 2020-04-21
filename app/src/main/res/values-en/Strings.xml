@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SavePassword</string>
+    <string name="generador">Generador de contraseñas seguras</string>
+    <string name="botongenerar">Create contraseña</string>
+    <string name="generarPIN">Crear PIN</string>
+    <string name="longitud">Longitud</string>
+    <string name="salir">Exit</string>
+
+
+</resources>
